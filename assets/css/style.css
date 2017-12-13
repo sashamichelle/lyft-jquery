@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+.caja-1{
+  height: 100vh;
+  width: 100%;
+}
+.caja-1 img{
+height: 100vh;
+width: 100%;
+}
+
+.caja-2{
+  height: 100vh;
+  width: 100%;
+  background-image: url(../img/img-1.png);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.caja-2 .fila-1 .columna-1{
+    padding-top: 556px;
+    padding-left: 105px;
+    }
